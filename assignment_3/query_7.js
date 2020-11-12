@@ -1,0 +1,1 @@
+printjson(db.ollection.remove( { $expr: { $gt: [{ $toDouble: "$height" }, 190] } } ))

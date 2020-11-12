@@ -1,0 +1,1 @@
+printjson(db.ollection.updateMany( { job: "Editor" }, { $unset: { email:1 } } ))

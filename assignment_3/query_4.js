@@ -1,0 +1,1 @@
+printjson(db.ollection.find({ $expr: { $and: [ { $gt: [ { $toDouble: "$weight" }, 68.0 ] } , { $lte: [ { $toDouble: "$weight" }, 71.5] } ] } } ).toArray())
