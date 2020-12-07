@@ -1,0 +1,457 @@
+﻿[
+  {
+    "actor": {
+"identity": 4,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Hugo Weaving",
+"born": 1960
+      }
+    },
+    "amount": 5
+  },
+  {
+    "actor": {
+"identity": 3,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Laurence Fishburne",
+"born": 1961
+      }
+    },
+    "amount": 3
+  },
+  {
+    "actor": {
+"identity": 2,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Carrie-Anne Moss",
+"born": 1967
+      }
+    },
+    "amount": 3
+  },
+  {
+    "actor": {
+"identity": 1,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Keanu Reeves",
+"born": 1964
+      }
+    },
+    "amount": 7
+  },
+  {
+    "actor": {
+"identity": 12,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Charlize Theron",
+"born": 1975
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 24,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "J.T. Walsh",
+"born": 1943
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 22,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Cuba Gooding Jr.",
+"born": 1968
+      }
+    },
+    "amount": 4
+  },
+  {
+    "actor": {
+"identity": 20,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kiefer Sutherland",
+"born": 1966
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 19,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Kevin Bacon",
+"born": 1958
+      }
+    },
+    "amount": 3
+  },
+  {
+    "actor": {
+"identity": 17,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jack Nicholson",
+"born": 1937
+      }
+    },
+    "amount": 5
+  },
+  {
+    "actor": {
+"identity": 16,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Cruise",
+"born": 1962
+      }
+    },
+    "amount": 3
+  },
+  {
+    "actor": {
+"identity": 34,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Meg Ryan",
+"born": 1961
+      }
+    },
+    "amount": 5
+  },
+  {
+    "actor": {
+"identity": 40,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Jerry O'Connell",
+"born": 1974
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 42,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Bonnie Hunt",
+"born": 1961
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 51,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Marshall Bell",
+"born": 1942
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 53,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Helen Hunt",
+"born": 1963
+      }
+    },
+    "amount": 3
+  },
+  {
+    "actor": {
+"identity": 54,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Greg Kinnear",
+"born": 1963
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 60,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Robin Williams",
+"born": 1951
+      }
+    },
+    "amount": 3
+  },
+  {
+    "actor": {
+"identity": 58,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Max von Sydow",
+"born": 1929
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 64,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Rick Yune",
+"born": 1971
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 65,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "James Cromwell",
+"born": 1940
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 71,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Tom Hanks",
+"born": 1956
+      }
+    },
+    "amount": 12
+  },
+  {
+    "actor": {
+"identity": 70,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Steve Zahn",
+"born": 1967
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 77,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Rosie O'Donnell",
+"born": 1962
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 80,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Nathan Lane",
+"born": 1956
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 89,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Gene Hackman",
+"born": 1930
+      }
+    },
+    "amount": 3
+  },
+  {
+    "actor": {
+"identity": 94,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Zach Grenier",
+"born": 1954
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 120,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Ben Miles",
+"born": 1967
+      }
+    },
+    "amount": 3
+  },
+  {
+    "actor": {
+"identity": 127,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Rain",
+"born": 1982
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 133,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Sam Rockwell",
+"born": 1968
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 134,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Gary Sinise",
+"born": 1955
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 140,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Oliver Platt",
+"born": 1960
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 142,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Danny DeVito",
+"born": 1944
+      }
+    },
+    "amount": 2
+  },
+  {
+    "actor": {
+"identity": 146,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Bill Paxton",
+"born": 1955
+      }
+    },
+    "amount": 3
+  },
+  {
+    "actor": {
+"identity": 148,
+"labels": [
+        "Person"
+      ],
+"properties": {
+"name": "Philip Seymour Hoffman",
+"born": 1967
+      }
+    },
+    "amount": 2
+  }
+]
