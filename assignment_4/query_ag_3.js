@@ -1,0 +1,1 @@
+printjson(db.collection.aggregate( [ { $group: { _id: "$job" } } ] ).toArray())

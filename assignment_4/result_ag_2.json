@@ -1,0 +1,622 @@
+MongoDB shell version v4.4.1
+connecting to: mongodb://127.0.0.1:27017/nbd?compressors=disabled&gssapiServiceName=mongodb
+Implicit session: session { "id" : UUID("7e00af2a-4801-4418-895b-8ee48c61d912") }
+MongoDB server version: 4.4.1
+[
+	{
+		"_id" : "BDT",
+		"moneyLeft" : 294843.38
+	},
+	{
+		"_id" : "BOB",
+		"moneyLeft" : 257433.54
+	},
+	{
+		"_id" : "ISK",
+		"moneyLeft" : 39048.74
+	},
+	{
+		"_id" : "ARS",
+		"moneyLeft" : 1967570.17
+	},
+	{
+		"_id" : "GNF",
+		"moneyLeft" : 73222.48
+	},
+	{
+		"_id" : "DZD",
+		"moneyLeft" : 12166.2
+	},
+	{
+		"_id" : "IRR",
+		"moneyLeft" : 804397.05
+	},
+	{
+		"_id" : "KYD",
+		"moneyLeft" : 16809.66
+	},
+	{
+		"_id" : "IQD",
+		"moneyLeft" : 167531.82
+	},
+	{
+		"_id" : "AUD",
+		"moneyLeft" : 242667.03
+	},
+	{
+		"_id" : "COP",
+		"moneyLeft" : 1980543.49
+	},
+	{
+		"_id" : "KGS",
+		"moneyLeft" : 176827.79
+	},
+	{
+		"_id" : "KES",
+		"moneyLeft" : 273491.26
+	},
+	{
+		"_id" : "PLN",
+		"moneyLeft" : 5127210.21
+	},
+	{
+		"_id" : "NGN",
+		"moneyLeft" : 1301224.95
+	},
+	{
+		"_id" : "UZS",
+		"moneyLeft" : 334451.77
+	},
+	{
+		"_id" : "CZK",
+		"moneyLeft" : 2668722.74
+	},
+	{
+		"_id" : "WST",
+		"moneyLeft" : 30739.64
+	},
+	{
+		"_id" : "PEN",
+		"moneyLeft" : 2381759.99
+	},
+	{
+		"_id" : "BRL",
+		"moneyLeft" : 5676516.76
+	},
+	{
+		"_id" : "GYD",
+		"moneyLeft" : 13053.5
+	},
+	{
+		"_id" : "SZL",
+		"moneyLeft" : 59113.090000000004
+	},
+	{
+		"_id" : "KWD",
+		"moneyLeft" : 88501.85
+	},
+	{
+		"_id" : "UAH",
+		"moneyLeft" : 2531920.9
+	},
+	{
+		"_id" : "SCR",
+		"moneyLeft" : 14797.58
+	},
+	{
+		"_id" : "ETB",
+		"moneyLeft" : 273507.6
+	},
+	{
+		"_id" : "NZD",
+		"moneyLeft" : 355832.98
+	},
+	{
+		"_id" : "SRD",
+		"moneyLeft" : 19686.77
+	},
+	{
+		"_id" : "BWP",
+		"moneyLeft" : 146972.04
+	},
+	{
+		"_id" : "SLL",
+		"moneyLeft" : 116224.9
+	},
+	{
+		"_id" : "EUR",
+		"moneyLeft" : 16913519.13
+	},
+	{
+		"_id" : "CRC",
+		"moneyLeft" : 334544.06
+	},
+	{
+		"_id" : "CDF",
+		"moneyLeft" : 178097.37
+	},
+	{
+		"_id" : "RSD",
+		"moneyLeft" : 822119.3
+	},
+	{
+		"_id" : "MGA",
+		"moneyLeft" : 382347.12
+	},
+	{
+		"_id" : "KZT",
+		"moneyLeft" : 601904.37
+	},
+	{
+		"_id" : "QAR",
+		"moneyLeft" : 36358.92
+	},
+	{
+		"_id" : "AMD",
+		"moneyLeft" : 628234.91
+	},
+	{
+		"_id" : "HUF",
+		"moneyLeft" : 165192.16
+	},
+	{
+		"_id" : "TJS",
+		"moneyLeft" : 177401.05
+	},
+	{
+		"_id" : "YER",
+		"moneyLeft" : 583657.38
+	},
+	{
+		"_id" : "VND",
+		"moneyLeft" : 1418903.3699999999
+	},
+	{
+		"_id" : "SOS",
+		"moneyLeft" : 82203.48
+	},
+	{
+		"_id" : "TND",
+		"moneyLeft" : 325755.9
+	},
+	{
+		"_id" : "GHS",
+		"moneyLeft" : 83159.05
+	},
+	{
+		"_id" : "HKD",
+		"moneyLeft" : 23023.02
+	},
+	{
+		"_id" : "BGN",
+		"moneyLeft" : 502248.52
+	},
+	{
+		"_id" : "INR",
+		"moneyLeft" : 24172.940000000002
+	},
+	{
+		"_id" : "SAR",
+		"moneyLeft" : 161706
+	},
+	{
+		"_id" : "ZMW",
+		"moneyLeft" : 160940.53
+	},
+	{
+		"_id" : "RUB",
+		"moneyLeft" : 8648162.27
+	},
+	{
+		"_id" : "KHR",
+		"moneyLeft" : 100447.58
+	},
+	{
+		"_id" : "JOD",
+		"moneyLeft" : 214942.07
+	},
+	{
+		"_id" : "TTD",
+		"moneyLeft" : 44044.89
+	},
+	{
+		"_id" : "UGX",
+		"moneyLeft" : 345203.25
+	},
+	{
+		"_id" : "MXN",
+		"moneyLeft" : 1568281.9
+	},
+	{
+		"_id" : "DOP",
+		"moneyLeft" : 538809.21
+	},
+	{
+		"_id" : "LAK",
+		"moneyLeft" : 86305.05
+	},
+	{
+		"_id" : "ILS",
+		"moneyLeft" : 766163.99
+	},
+	{
+		"_id" : "PHP",
+		"moneyLeft" : 8354757.95
+	},
+	{
+		"_id" : "BIF",
+		"moneyLeft" : 45782.33
+	},
+	{
+		"_id" : "PGK",
+		"moneyLeft" : 61445.270000000004
+	},
+	{
+		"_id" : "CAD",
+		"moneyLeft" : 1998158.32
+	},
+	{
+		"_id" : "LKR",
+		"moneyLeft" : 225111.38999999998
+	},
+	{
+		"_id" : "THB",
+		"moneyLeft" : 2103307.17
+	},
+	{
+		"_id" : "PAB",
+		"moneyLeft" : 363643.61
+	},
+	{
+		"_id" : "SBD",
+		"moneyLeft" : 9983
+	},
+	{
+		"_id" : "BHD",
+		"moneyLeft" : 22698.46
+	},
+	{
+		"_id" : "ANG",
+		"moneyLeft" : 21354.39
+	},
+	{
+		"_id" : "MWK",
+		"moneyLeft" : 88106.83
+	},
+	{
+		"_id" : "AOA",
+		"moneyLeft" : 67582.8
+	},
+	{
+		"_id" : "PKR",
+		"moneyLeft" : 687770.55
+	},
+	{
+		"_id" : "SYP",
+		"moneyLeft" : 511625.27
+	},
+	{
+		"_id" : "KRW",
+		"moneyLeft" : 446738.59
+	},
+	{
+		"_id" : "MVR",
+		"moneyLeft" : 32068.850000000002
+	},
+	{
+		"_id" : "CHF",
+		"moneyLeft" : 108940.64
+	},
+	{
+		"_id" : "NAD",
+		"moneyLeft" : 55420.34
+	},
+	{
+		"_id" : "DJF",
+		"moneyLeft" : 14734.27
+	},
+	{
+		"_id" : "PYG",
+		"moneyLeft" : 291487.63
+	},
+	{
+		"_id" : "AZN",
+		"moneyLeft" : 403856.73
+	},
+	{
+		"_id" : "ZAR",
+		"moneyLeft" : 947722.84
+	},
+	{
+		"_id" : "BMD",
+		"moneyLeft" : 5189
+	},
+	{
+		"_id" : "ALL",
+		"moneyLeft" : 655866.63
+	},
+	{
+		"_id" : "JPY",
+		"moneyLeft" : 2601019.27
+	},
+	{
+		"_id" : "MUR",
+		"moneyLeft" : 182130.48
+	},
+	{
+		"_id" : "MDL",
+		"moneyLeft" : 173318.73
+	},
+	{
+		"_id" : "HTG",
+		"moneyLeft" : 215992.13
+	},
+	{
+		"_id" : "STD",
+		"moneyLeft" : 4854.36
+	},
+	{
+		"_id" : "USD",
+		"moneyLeft" : 4154939.09
+	},
+	{
+		"_id" : "SSP",
+		"moneyLeft" : 42256.53
+	},
+	{
+		"_id" : "GEL",
+		"moneyLeft" : 157276.96
+	},
+	{
+		"_id" : "LYD",
+		"moneyLeft" : 197545.65
+	},
+	{
+		"_id" : "CVE",
+		"moneyLeft" : 46538.51
+	},
+	{
+		"_id" : "OMR",
+		"moneyLeft" : 87008.08
+	},
+	{
+		"_id" : "HRK",
+		"moneyLeft" : 699650.32
+	},
+	{
+		"_id" : "BYR",
+		"moneyLeft" : 693053.85
+	},
+	{
+		"_id" : "BSD",
+		"moneyLeft" : 55361.39
+	},
+	{
+		"_id" : "EGP",
+		"moneyLeft" : 538164.28
+	},
+	{
+		"_id" : "MZN",
+		"moneyLeft" : 92068.64
+	},
+	{
+		"_id" : "XCD",
+		"moneyLeft" : 168150.01
+	},
+	{
+		"_id" : "ZWL",
+		"moneyLeft" : 147943.58
+	},
+	{
+		"_id" : "IDR",
+		"moneyLeft" : 15803638.67
+	},
+	{
+		"_id" : "AED",
+		"moneyLeft" : 52973.33
+	},
+	{
+		"_id" : "MYR",
+		"moneyLeft" : 671978.45
+	},
+	{
+		"_id" : "NOK",
+		"moneyLeft" : 776758.6
+	},
+	{
+		"_id" : "TZS",
+		"moneyLeft" : 617053.52
+	},
+	{
+		"_id" : "AFN",
+		"moneyLeft" : 677925.57
+	},
+	{
+		"_id" : "BND",
+		"moneyLeft" : 7782.66
+	},
+	{
+		"_id" : "KPW",
+		"moneyLeft" : 227902.01
+	},
+	{
+		"_id" : "GMD",
+		"moneyLeft" : 157963.9
+	},
+	{
+		"_id" : "CLP",
+		"moneyLeft" : 403957.97000000003
+	},
+	{
+		"_id" : "TWD",
+		"moneyLeft" : 37654
+	},
+	{
+		"_id" : "LBP",
+		"moneyLeft" : 43326.06
+	},
+	{
+		"_id" : "MMK",
+		"moneyLeft" : 226778.17
+	},
+	{
+		"_id" : "KMF",
+		"moneyLeft" : 138004.7
+	},
+	{
+		"_id" : "JMD",
+		"moneyLeft" : 201447.71
+	},
+	{
+		"_id" : "MOP",
+		"moneyLeft" : 5337.77
+	},
+	{
+		"_id" : "NIO",
+		"moneyLeft" : 263374.09
+	},
+	{
+		"_id" : "BTN",
+		"moneyLeft" : 37711.08
+	},
+	{
+		"_id" : "XPF",
+		"moneyLeft" : 132926.01
+	},
+	{
+		"_id" : "SGD",
+		"moneyLeft" : 12820.48
+	},
+	{
+		"_id" : "DKK",
+		"moneyLeft" : 225770.32
+	},
+	{
+		"_id" : "RWF",
+		"moneyLeft" : 43299.96
+	},
+	{
+		"_id" : "MRO",
+		"moneyLeft" : 54117.17
+	},
+	{
+		"_id" : "TOP",
+		"moneyLeft" : 18424.47
+	},
+	{
+		"_id" : "MNT",
+		"moneyLeft" : 644907.42
+	},
+	{
+		"_id" : "TMT",
+		"moneyLeft" : 113099.62
+	},
+	{
+		"_id" : "BBD",
+		"moneyLeft" : 26720.5
+	},
+	{
+		"_id" : "MAD",
+		"moneyLeft" : 516264.06
+	},
+	{
+		"_id" : "UYU",
+		"moneyLeft" : 237715.67
+	},
+	{
+		"_id" : "HNL",
+		"moneyLeft" : 817695.24
+	},
+	{
+		"_id" : "MKD",
+		"moneyLeft" : 446949.89
+	},
+	{
+		"_id" : "VEF",
+		"moneyLeft" : 638306.07
+	},
+	{
+		"_id" : "AWG",
+		"moneyLeft" : 7282.73
+	},
+	{
+		"_id" : "GBP",
+		"moneyLeft" : 243512.86
+	},
+	{
+		"_id" : "BAM",
+		"moneyLeft" : 415965.47
+	},
+	{
+		"_id" : "BZD",
+		"moneyLeft" : 27742.45
+	},
+	{
+		"_id" : "VUV",
+		"moneyLeft" : 23188.93
+	},
+	{
+		"_id" : "TRY",
+		"moneyLeft" : 18414.53
+	},
+	{
+		"_id" : "GTQ",
+		"moneyLeft" : 597758.09
+	},
+	{
+		"_id" : "ERN",
+		"moneyLeft" : 21598.47
+	},
+	{
+		"_id" : "FJD",
+		"moneyLeft" : 9321.43
+	},
+	{
+		"_id" : "XAF",
+		"moneyLeft" : 754247.57
+	},
+	{
+		"_id" : "NPR",
+		"moneyLeft" : 146606.65
+	},
+	{
+		"_id" : "RON",
+		"moneyLeft" : 11557.6
+	},
+	{
+		"_id" : "CNY",
+		"moneyLeft" : 27776263.33
+	},
+	{
+		"_id" : "XOF",
+		"moneyLeft" : 944111.3
+	},
+	{
+		"_id" : "SEK",
+		"moneyLeft" : 3738579.57
+	},
+	{
+		"_id" : "LRD",
+		"moneyLeft" : 54883.45
+	},
+	{
+		"_id" : "CUP",
+		"moneyLeft" : 517904.09
+	},
+	{
+		"_id" : "SDG",
+		"moneyLeft" : 134649.56
+	},
+	{
+		"_id" : "LSL",
+		"moneyLeft" : 26269.07
+	},
+	{
+		"_id" : "FKP",
+		"moneyLeft" : 5118.97
+	},
+	{
+		"_id" : "LTL",
+		"moneyLeft" : 230882.59
+	}
+]

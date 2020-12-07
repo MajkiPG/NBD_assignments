@@ -1,0 +1,1 @@
+printjson(db.collection.aggregate( [ { $unwind: "$credit" }, { $group: { _id: "$credit.currency", moneyLeft: { $sum: { $toDouble: "$credit.balance" } } } } ] ).toArray())
