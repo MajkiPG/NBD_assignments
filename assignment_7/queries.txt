@@ -1,0 +1,43 @@
+1.
+
+curl -i -XPUT -H "Content-Type: application/json" -d '{"team_name": "Mercedes-AMG Petronas Formula One Team", "championship_points": 573, "color": "black"}' http://localhost:8098/buckets/s21999/keys/mercedes
+curl -i -XPUT -H "Content-Type: application/json" -d '{"team_name": "Aston Martin Red Bull Racing", "championship_points": 319, "color": "navy blue"}' http://localhost:8098/buckets/s21999/keys/redbull
+curl -i -XPUT -H "Content-Type: application/json" -d '{"team_name": "McLaren Racing", "championship_points": 202, "color": "orange"}' http://localhost:8098/buckets/s21999/keys/mclaren
+curl -i -XPUT -H "Content-Type: application/json" -d '{"team_name": "BWT Racing Point Formula One Team", "championship_points": 195, "color": "pink"}' http://localhost:8098/buckets/s21999/keys/racingpoint
+curl -i -XPUT -H "Content-Type: application/json" -d '{"team_name": "Renault F1 Team", "championship_points": 181, "color": "yellow"}' http://localhost:8098/buckets/s21999/keys/renault
+
+2.
+
+curl -i http://localhost:8098/buckets/s21999/keys/mercedes
+
+3.
+
+curl -i -XPUT -H "Content-Type: application/json" -d '{"team_name": "Mercedes-AMG Petronas Formula One Team", "championship_points": 573, "color": "black", "driver1": "Lewis Hamilton"}' http://localhost:8098/buckets/s21999/keys/mercedes
+
+4.
+
+curl -i -XPUT -H "Content-Type: application/json" -d '{"team_name": "McLaren Racing", "championship_points": 202}' http://localhost:8098/buckets/s21999/keys/mclaren
+
+5.
+
+curl -i -XPUT -H "Content-Type: application/json" -d '{"team_name": "Alpine F1 Team", "championship_points": 181, "color": "yellow"}' http://localhost:8098/buckets/s21999/keys/renault
+
+6.
+
+curl -i -XDELETE http://localhost:8098/buckets/s21999/keys/racingpoint
+
+7.
+
+curl -i http://localhost:8098/buckets/s21999/keys/racingpoint
+
+8.
+
+curl -i -X POST -H "Content-Type: application/json" -d '{"team_name": "Scuderia Ferrari Formula 1", "championship_points": 131, "color": "red"}' http://localhost:8098/buckets/s21999/keys
+
+9.
+
+curl -i  http://localhost:8098/buckets/s21999/keys/AdsCr8zRssMYCs3nOX6x3fxBBhq
+
+10.
+
+curl -i -XDELETE http://localhost:8098/buckets/s21999/keys/AdsCr8zRssMYCs3nOX6x3fxBBhq
